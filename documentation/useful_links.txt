@@ -1,0 +1,9 @@
+https://balau82.wordpress.com/2011/03/29/programming-arduino-uno-in-pure-c/
+https://www.sparkfun.com/products/12640
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
+http://forum.arduino.cc/index.php?topic=217910.0
+http://forum.arduino.cc/index.php?topic=111213.0
+http://cholla.mmto.org/computers/arduino/boards/promicro/
+http://www.nongnu.org/avrdude/user-manual/avrdude_4.html#Option-Descriptions
+
