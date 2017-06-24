@@ -11,3 +11,4 @@ https://github.com/sparkfun/Arduino_Boards/blob/master/IDE_Board_Manager/sparkfu
 http://xcom.ee/project_files/beer_temp2/beertemp2_buutload_howto.txt
 https://www.arduino.cc/en/Guide/ArduinoLeonardoMicrot
 https://arduino.stackexchange.com/questions/21533/i-can-not-upload-hex-files-outside-of-the-arduino-ide-to-my-pro-micro/21534
+https://en.wikipedia.org/wiki/Intel_HEX
