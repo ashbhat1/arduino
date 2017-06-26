@@ -1,4 +1,0 @@
-http://www.electronicdesign.com/communications/what-s-difference-between-bit-rate-and-baud-rate
-https://en.wikipedia.org/wiki/Canonical_form
-https://www.mkssoftware.com/docs/man5/struct_termios.5.asp
-
