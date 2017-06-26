@@ -1,0 +1,10 @@
+http://www.electronicdesign.com/communications/what-s-difference-between-bit-rate-and-baud-rate
+https://en.wikipedia.org/wiki/Canonical_form
+https://www.mkssoftware.com/docs/man5/struct_termios.5.asp
+http://tldp.org/HOWTO/Serial-Programming-HOWTO/index.html
+http://www.electronicdesign.com/communications/what-s-difference-between-bit-rate-and-baud-rate
+https://linux.die.net/man/3/termios
+http://www.cmrr.umn.edu/~strupp/serial.html
+https://codereview.stackexchange.com/questions/39752/reading-from-a-serial-port
+https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios-termios3-and-stty/
+
