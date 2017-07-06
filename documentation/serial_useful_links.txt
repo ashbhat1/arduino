@@ -7,4 +7,16 @@ https://linux.die.net/man/3/termios
 http://www.cmrr.umn.edu/~strupp/serial.html
 https://codereview.stackexchange.com/questions/39752/reading-from-a-serial-port
 https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios-termios3-and-stty/
+http://www.edn.com/electronics-blogs/embedded-basics/4440395/USART-vs-UART--Know-the-difference
+
+http://playground.arduino.cc/FreeBSD/CLI
+http://www.atmel.com/webdoc/avrlibcreferencemanual/using_tools_1using_avr_as_mach_opts.html
+https://balau82.wordpress.com/2011/03/29/programming-arduino-uno-in-pure-c/
+https://arduino.stackexchange.com/questions/11762/reading-writing-to-arduino-gpio-pins-from-raw-c-code
+http://urbanhonking.com/ideasfordozens/2009/05/18/an_tour_of_the_arduino_interna/
+http://hackaday.com/2015/07/28/embed-with-elliot-there-is-no-arduino-language/
+https://spirle.wordpress.com/2013/02/24/programming-arduino-without-the-arduino-ide/
+http://www.atmel.com/webdoc/avrlibcreferencemanual/group__avr__sfr__notes.html
+https://paritycheck.wordpress.com/2009/03/27/what-does-this-mean-volatile-unsigned-char-0x22/
+http://maxembedded.com/2011/06/port-operations-in-avr/
 
