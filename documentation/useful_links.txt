@@ -10,3 +10,6 @@ http://ubuntuhandbook.org/index.php/2017/01/install-avrdude-6-4-ubuntu-16-04/
 https://github.com/sparkfun/Arduino_Boards/blob/master/IDE_Board_Manager/sparkfunboards.1.1.6.tar.bz2
 http://xcom.ee/project_files/beer_temp2/beertemp2_buutload_howto.txt
 https://www.arduino.cc/en/Guide/ArduinoLeonardoMicrot
+https://arduino.stackexchange.com/questions/21533/i-can-not-upload-hex-files-outside-of-the-arduino-ide-to-my-pro-micro/21534
+https://en.wikipedia.org/wiki/Intel_HEX
+http://zhehaomao.com/blog/2012/07/25/programming-avr.html
