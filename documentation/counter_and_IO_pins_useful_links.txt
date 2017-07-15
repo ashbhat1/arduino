@@ -1,0 +1,2 @@
+http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/
+https://stackoverflow.com/questions/14526584/what-does-the-xor-operator-do
