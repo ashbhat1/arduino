@@ -1,6 +1,0 @@
-http://www.linuxjournal.com/article/1059?page=0,1
-http://www.cirosantilli.com/elf-hello-world/
-http://www.linuxjournal.com/article/1060
-https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
-https://groups.google.com/forum/#!topic/fa.freebsd.current/RUZnbnYykQo
- 
