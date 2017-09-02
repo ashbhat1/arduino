@@ -27,7 +27,7 @@ int main(){
  _delay_ms(10);
  PORTD ^= (1<<PORTD4);
  _delay_ms(10);
- USART_transmit(PIND+65);
+ USART_transmit(PIND);
  _delay_ms(5000);
  if ((PIND)&(1<<PIND2)){
   USART_transmit('i');
