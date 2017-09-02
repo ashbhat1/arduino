@@ -1,0 +1,5 @@
+https://github.com/dataplayer/Blinking-LED-on-Arduino
+
+https://balau82.wordpress.com/2011/03/29/programming-arduino-uno-in-pure-c/
+
+https://www.arduino.cc/en/Tutorial/Blink
