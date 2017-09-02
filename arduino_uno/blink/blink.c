@@ -8,12 +8,12 @@ int main (void)
 
   while (1)
     {
-      /* set PORTB.6 high */
+      /* set PORTB.5 high */
       PORTB = 0x20;
 
       _delay_ms(200);
 
-      /* set PORTB.6 low */
+      /* set PORTB.5 low */
       PORTB = 0x00;
 
       _delay_ms(200);
