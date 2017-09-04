@@ -1,0 +1,8 @@
+
+http://www.edn.com/electronics-blogs/embedded-basics/4440395/USART-vs-UART--Know-the-difference
+
+http://www.unm.edu/~zbaker/ece238/slides/UART.pdf
+
+http://www.circuitbasics.com/basics-uart-communication/
+
+https://learn.sparkfun.com/tutorials/serial-communication/rules-of-serial
